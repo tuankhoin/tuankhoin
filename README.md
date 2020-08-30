@@ -24,3 +24,7 @@ I am:
 I also have a [little personal website](https://tkhoinguyen.netlify.app/) if you'd like to know more about me. Make sure to check out the photo section as well 😄!
 
 **Cheers!**
+
+[![Khoi's github stats](https://github-readme-stats.vercel.app/api?username=tuankhoin&hide=stars&count_private=true&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuankhoin&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+
