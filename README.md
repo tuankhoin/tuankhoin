@@ -5,7 +5,7 @@
 -->
 
 I am:
-* Currently an undergraduate of The University of Melbourne, majoring in Mechatronics Systems, more to the coding part. 
+* Currently doing Masters of Engineering at The University of Melbourne, majoring in Mechatronics Systems, more to the coding part. 
 * Enthusiast of creating and automate basically anything around. 
 * Enjoys a walk up the mountain peaks, and taking some pictures like a typical Asain tourist.
 * Always up for some warm coffee in the breeze of Melbourne, or trà đá under the heat of Sai Gon.
