@@ -1,4 +1,8 @@
 ### I'm Khoi, and welcome to my GitHub!
+![](https://komarev.com/ghpvc/?username=your-github-username&color=red&style=plastic&label=Sneaky+Lurkers)
+
+[![Linkedin](https://img.shields.io/badge/Linkedin-Khoi%20Nguyen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tuankhoin/)](https://www.linkedin.com/in/tuankhoin/)
+[![website](https://img.shields.io/badge/Personal%20Website-tkhoinguyen.netlify.app/-purple?style=flat-square&logo=Netlify)](https://tkhoinguyen.netlify.app/)
 
 <!--
 
@@ -17,5 +21,5 @@ I also have a [little personal website](https://tkhoinguyen.netlify.app/) if you
 [![Khoi's github stats](https://github-readme-stats.vercel.app/api?username=tuankhoin&hide=stars&count_private=true&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuankhoin&hide=jupyter%20notebook,c%23,shaderlab&layout=compact&theme=gotham&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
-**Let's keep in touch: &nbsp;[<img alt="contact" width="15px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/person.svg" />](https://tkhoinguyen.netlify.app/contact/)**
+**Let's keep in touch: &nbsp; [![website](https://img.shields.io/badge/Contact%20Me-red?style=flat-square&logo=Netlify)](https://tkhoinguyen.netlify.app/contact/)**
 
