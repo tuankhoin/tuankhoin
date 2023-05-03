@@ -1,5 +1,5 @@
 ### I'm Khoi, and welcome to my GitHub!
-![](https://komarev.com/ghpvc/?username=your-github-username&color=red&style=plastic&label=Sneaky+Lurkers)
+![](https://komarev.com/ghpvc/?username=tuankhoin&color=red&style=plastic&label=Sneaky+Lurkers)
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-Khoi%20Nguyen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tuankhoin/)](https://www.linkedin.com/in/tuankhoin/)
 [![website](https://img.shields.io/badge/Personal%20Website-tkhoinguyen.netlify.app/-purple?style=flat-square&logo=Netlify)](https://tkhoinguyen.netlify.app/)
