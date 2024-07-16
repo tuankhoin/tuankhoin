@@ -9,10 +9,11 @@
 -->
 
 I am:
-* Currently doing Masters of Engineering at The University of Melbourne, majoring in Mechatronics Systems, more to the coding part. 
+* Did Masters of Engineering at The University of Melbourne, majoring in Mechatronics Systems, more to the coding part. 
 * Enthusiast of creating and automate basically anything around. 
 * Enjoys a walk up the mountain peaks, and taking some pictures like a typical Asain tourist.
 * Always up for some warm coffee in the breeze of Melbourne, or trà đá under the heat of Sai Gon.
+* Currently working on personal projects, so will be hibernating for a while.
 
 I also have a [little personal website](https://tkhoinguyen.netlify.app/) if you'd like to know more about me. Make sure to check out the [photo section](https://tkhoinguyen.netlify.app/photography/) as well 😄!
 
