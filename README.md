@@ -19,8 +19,9 @@ I also have a [little personal website](https://tkhoinguyen.netlify.app/) if you
 
 **Cheers!**
 
+<!--
 [![Github stats](https://github-readme-stats.vercel.app/api?username=tuankhoin&hide=stars&count_private=true&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tuankhoin&hide=jupyter%20notebook,c%23,shaderlab&layout=compact&theme=gotham&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
 **Let's keep in touch: &nbsp; [![website](https://img.shields.io/badge/Contact%20Me-red?style=flat-square&logo=Netlify)](https://tkhoinguyen.netlify.app/contact/)**
 
